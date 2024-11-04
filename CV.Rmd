@@ -1,0 +1,122 @@
+---
+title: "Curriculum Vitae"
+author: "Lorena Dumba"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+# Personal Information
+
+- **Email**: lorenadumba@gmail.com
+- **Phone**: (308) 341 8634
+- **Location**: Lincoln, Nebraska - USA
+
+---
+
+# Education
+
+-	PhD, Plant Breeding and Genetics 
+University of Nebraska - Lincoln – UNL: 2024 - currently
+-	PhD, Statistics 
+University of Nebraska - Lincoln – UNL: 2024 - currently
+
+-	MBA, Agribusiness
+Luiz de Queiroz College of Agriculture, University of Sao Paulo - USP/Esalq – 2022/2024
+
+-	Master’s degree, Genetics and Plant Breeding 
+Federal University of Lavras - UFLA/MG/Brazil – 2019/2021
+Thesis: Computational Vision Applied to the Evaluation of Darkening of Carioca Beans Grains
+
+-	BS, Agronomy 
+Federal University of Lavras - UFLA/MG/Brazil – 2014/2019
+Thesis: Image Analysis as a Tool for Evaluation of Delinting in Cotton Seeds
+
+---
+
+# Awards
+
+-	Graduate Studies Travel Grant - University of Nebraska-Lincoln - 2024
+-	CROPS Travel Award - University of Nebraska-Lincoln - 2024
+
+---
+
+# Research/Teaching Experience
+
+-	Teaching Intern, Department of Agronomy & Horticulture, University of Nebraska
+	An Introduction to Hybrid Breeding - Fall, 2023
+	Introduction to Hybrid Breeding: Understanding the Process (Online) – Fall, 2023
+	Genotypic by Environmental Interactions in Plant Breeding - Fall, 2023
+
+-	Member of the Coordination of the Center for Studies in Genetics and Plant Breeding – GEM/ Federal University of Lavras - 2019/2021
+
+-	Scientific Research at Agricultural Research Company of Minas Gerais - EPAMIG – Minas Gerais, Brazil - 2015/2018
+Project: Plant physiology of coffee genotypes and drought tolerance
+
+---
+
+# Professional Experience
+
+-	Internship – Hybrid Maize Breeding – 2023 
+University of Nebraska - Lincoln
+
+-	Internship - Alternative Crops Breeding – 2022 
+University of Nebraska Panhandle Research & Extension Center - Scottsbluff, Nebraska
+
+-	Internship - Inspection of seeds and seedlings in the South of Minas Gerais – 2019
+Ministry of Agriculture, Livestock and Food Supply (MAPA) – Minas Gerais, Brazil
+
+---
+
+# Publications, Posters, Presentations
+
+-	Poster ASA, CSSA and SSSA: American Society of Agronomy Meeting
+Title: Two-Stage Mixed Model Analysis of Plant Breeding Data Using Echidna Software
+November 11th, 2024
+San Antonio, Texas
+
+-	Publication: Agronomy Journal
+Silva, L. C. D., da Silva Cardoso, E., Mencalha, J., Gomes, D. A., de Castro Miguel, J. A., Cardoso, J. V. C., dos Santos, H. O., & Carneiro, V. Q. (2024). Computer vision for assessment the seed coat color of carioca common beans. Agronomy Journal, 1–10. https://doi.org/10.1002/agj2.21636
+
+---
+
+# Event Organization
+
+-	University of Nebraska – Lincoln
+	Workshop - Hybrid Breeding: The Essentials – 2023
+	Workshop - Analysis, Summarization, and Interpretation of Plant Breeding Data Using
+	Mixed Models with Echidna and ASReml Software – 2023
+
+-	Federal University of Lavras, Minas Gerais – Brazil
+	Applied course on experimental data analysis in R – 2020
+	Online course on R: First steps towards the basic concepts of data analysis – 2020
+	XXIV International Symposium on Genetics and Plant Breeding (Corteva Symposia Series) – 2020
+	IV Workshop - Brazilian Crops - 2019
+
+---
+
+# Software
+
+ - R   
+ - Python 
+ - SAS
+ - Echidna
+
+---
+
+# Volunteer Work
+
+-	Department of Phytopathology – Federal University of Lavras - MG/Brazil – 2018/2019
+-	Hippotherapy Center – Federal University of Lavras - MG/Brazil – 2014/2019
+
+---
+
+# Languages
+
+-	English
+-	Portuguese (Native) 
+ 
+---
+
+# References
+
+Available upon request.
