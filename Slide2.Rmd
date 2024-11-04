@@ -1,15 +1,10 @@
 ---
-title: "Presentation"
+title: "Abou Me"
 author: "Lorena Dumba"
 date: "`r Sys.Date()`"
 output: 
   xaringan::moon_reader:
     css: [default, custom.css]
----
-
-## About Me
-
-### Lorena Dumba
 
 ---
 
@@ -67,7 +62,7 @@ ggplot(corn_data, aes(x = Year)) +
 
 ---
 
-# CV Link Slide
+# CV Link 
 
-[View PDF](CV.pdf)
----
+[View CV](CV.pdf)
+
